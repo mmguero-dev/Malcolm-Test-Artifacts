@@ -1,0 +1,20 @@
+S4x15 - Digital Bond's S4 conference 2015
+
+See https://www.netresec.com/?page=DigitalBond_S4
+
+We've received permission from Dale Peterson and Reid Wightman to publish PCAP files from the SCADA Security Scientific Symposium 2015 (S4x15). The PCAP files were captured during the S4x15 Capture-the-Flag (CTF) competition, which was conducted in an ICS Village containing a variety of PLC's, HMI workstations and standard corporate IT PC's. A more detailed description of the S4x15 CTF and the devices in the ICS Village is available in a blog post at Digital Bond.
+
+PCAP files from industrial control system networks is a scarce resource, so would like to thank Digital Bond and the S4 conference for allowing these PCAP files to be publicly shared.
+
+S4x15 CTF PCAP files
+
+File Name           File Size   Description
+-----------------------------------------------------
+Advantech.pcap      39K         Advantech PLC
+BACnet_FIU.pcap     10M         BACnet Internet
+BACnet_Host.pcap    2M          BACnet Corporate Zone
+MicroLogix56.pcap   10M         MicroLogix
+Modicon.pcap        863K        Modicon PLC
+WinXP.pcap          3M          Windows XP
+iFix_Client86.pcap  965K        iFix Client
+iFix_Server119.pcap 13M         iFix Server
